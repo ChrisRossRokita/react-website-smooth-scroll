@@ -3,10 +3,10 @@ import React from 'react'
 const Navbar = () => {
     return (
         <>
-        <Nav>
+         <Nav>
             <NavbarContainer>
                 <NavLogo>
-                    Dolla
+                    Dollar
                 </NavLogo>
             </NavbarContainer>
         </Nav>
